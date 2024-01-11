@@ -7,7 +7,7 @@ import threading
 
 # find port of server 
 PORT = int(os.environ.get('PORT',5000))
-token = '5728368003:AAFGFs7r1LAJB-flrJ9et5J7Okzgw1_4s_Y'
+token = '6691686204:AAFsAlea7CPiC_ZxHff4v8M1-x-Rxvn4fn8'
 
 START_CO, GET_WORD, GET_NUMBER,GET_CHANNEL_URL, GET_URL, CONFIRMATION = range(1, 7)
 
